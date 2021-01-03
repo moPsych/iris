@@ -1,7 +1,7 @@
 # Iris
 ## A generative eye.
 
-<img src="./sample/sample.png">
+<img src="./sample/sample.jpg">
 
 ### Watch the animation video on this tweet:
 <a href="">Iris Animation</a>
